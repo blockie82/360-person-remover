@@ -80,4 +80,4 @@ Work on copies of your photos rather than your originals.
 
 ## License
 
-Choose a license when you create the repository (MIT is a common choice for small tools) and add a `LICENSE` file.
+Released under the [MIT License](LICENSE). You're free to use, copy, modify and share this tool, but it comes with no warranty.
