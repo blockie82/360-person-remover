@@ -6,6 +6,18 @@ Take one photo standing behind the camera and a second standing in front of it. 
 
 Everything runs in your browser. Photos are never uploaded anywhere.
 
+
+## Screenshots
+**1. Mark the people in Photo A.** Painted areas (red) will be replaced with the matching area from Photo B.
+
+<img width="2560" height="1080" alt="360-person-remover" src="https://github.com/user-attachments/assets/65b1a620-f8bc-4839-a1b8-874968f30d41" />
+
+
+**2. Check the result.** The people are gone and the grass and paths are filled in from Photo B.
+
+<img width="2560" height="1080" alt="360-person-remover_result" src="https://github.com/user-attachments/assets/d6bc9e92-c2a9-4395-8ad2-03a997a57725" />
+
+
 ## Quick start
 
 1. Download the app. Either:
@@ -64,6 +76,7 @@ This tool was designed and written by [Claude](https://claude.ai), an AI assista
 This project is shared as-is. It is not actively maintained and contributions (issues, pull requests) are not being accepted. You are free to copy the single `index.html` file and adapt it for your own use. It has no build step or dependencies.
 
 Work on copies of your photos rather than your originals.
+
 
 ## License
 
