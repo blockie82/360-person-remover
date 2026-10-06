@@ -10,8 +10,8 @@ Everything runs in your browser. Photos are never uploaded anywhere.
 
 1. Download the app. Either:
    - Select the green **Code** button, then **Download ZIP**, and unzip it; or
-   - Open `index.html` in this repository, select the **Download raw file** button (the download icon above the file), and save it.
-2. Double-click `index.html` to open it in Chrome, Edge, Firefox or Safari.
+   - Open `360-person-remover.html` in this repository, select the **Download raw file** button (the download icon above the file), and save it.
+2. Double-click `360-person-remover.html` to open it in Chrome, Edge, Firefox or Safari.
 
 No install, server or Git knowledge is needed.
 
